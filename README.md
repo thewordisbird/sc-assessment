@@ -5,6 +5,7 @@ In this project, you'll be using Node and Typescript to build an employee manage
 - You'll be using a tree to keep track of employees and their relations.
 - The comments in the code are just guidelines to help scaffold your thought process but are, by no means, strict requirements. Feel free to tackle the problem as you see fit.
 - There is a JSON file provided in this repo with all the employees and their bosses. But there's been a mistake in the data collection process and now some `name` fields actually contain emails. One of your functions will need to normalize the data and pull their first name from the email.
+- Make sure not to upload any generated files like the `node_modules`, `dist`, and `build` folders.
 
 ## Requirements
 - Fork this project to begin your work.
