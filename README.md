@@ -23,8 +23,8 @@ In this project, you'll be using Node and Typescript to build an employee manage
   - Any noteworthy logic/style decisions you made? If so, what is your reasoning?
   - If you had more time, what improvements would you implement?
   - **Bonus**: What is the time complexity of each function in your code?
-  - **Bonus**: There are two functions that have very similar logic and could be merged into one. Which functions do you think can merged and why?
-- Lastly, make a pull request in Github for this repository with your forked changes. 
+  - **Bonus**: There are two functions that have very similar logic and could be merged into one. Which functions do you think can be merged and why?
+- Lastly, send over a link to your forked repository.
 
 ### Expected Output
 The following should be logged to the console:
