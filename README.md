@@ -1,5 +1,5 @@
 # Social Curator Developer Assessment
-In this project, you'll be using Node and Typescript to build an employee management system. Feel free to go at your own pace but the assessment should, ideally, take no longer than an hour or two. If you're new two Typescript or any underlying technologies, feel free to do some research outside of coding window of time. 
+In this project, you'll be using Node and Typescript to build an employee management system. Feel free to go at your own pace but the assessment should, ideally, take no longer than an hour or two. If you're new to Typescript or any underlying technologies, feel free to do some research outside of the coding window of time. 
 
 ## Notes
 - You'll be using a tree to keep track of employees and their relations.
