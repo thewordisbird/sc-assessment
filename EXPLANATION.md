@@ -4,11 +4,11 @@
 
 - Fork or clone project repository
 - From the project directory install all dependencies using:
-  $ npm install
+  `$ npm install`
 - Compile the typescript:
-  $ npm run-script build
+  `$ npm run-script build`
 - Run the application:
-  $ npm run-script run
+  `$ npm run-script run`
 
 The index.ts file contains the main function. You can make function calls from here to manipulate the employee structure
 
