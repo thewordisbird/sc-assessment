@@ -102,7 +102,7 @@ export function promoteEmployee(tree: ITreeNode, employeeName: string): void {
   const bossNode = getBoss(tree, employeeName, false);
   const bossName = bossNode.value.name;
 
-  demoteEmployee(tree, bossName, employeeName);
+  demoteEmployee(tree, bossName, employeeName, false);
 
   console.log(
     `[promoteEmployee]: Promoted ${employeeName} and made ${bossName} his subordinate `
